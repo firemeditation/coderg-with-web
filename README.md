@@ -1,3 +1,7 @@
+** 项目已经移动到：https://github.com/idcsource/coderg **
+
+------
+
 # CoderG #
 
 这是一个用Go语言开发的极简Web和B/S框架。

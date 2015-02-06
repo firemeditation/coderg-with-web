@@ -1,4 +1,4 @@
-** 项目已经移动到：https://github.com/idcsource/coderg **
+**项目已经移动到：https://github.com/idcsource**
 
 ------
 
